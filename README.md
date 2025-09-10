@@ -1,5 +1,13 @@
 # 🗺️ 12-Week Roadmap
 
+Suggested Weekly Study Breakdown
+
+- **2–3 hours**: Reading/learning concepts
+
+- **5–6 hours**: Hands-on coding projects
+
+- **1–2 hours**: Review, notes, quizzes
+
 ---
 
 ## **Phase 1: Core Foundations (Weeks 1–3)**
@@ -238,10 +246,4 @@ Round it out with **WebLogic and Oracle ADF** for enterprise-grade deployments
 
 ---
 
-# 📂 Suggested Weekly Study Breakdown
 
-- **2–3 hours**: Reading/learning concepts
-
-- **5–6 hours**: Hands-on coding projects
-
-- **1–2 hours**: Review, notes, quizzes
