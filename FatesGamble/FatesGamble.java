@@ -84,7 +84,6 @@ public class FatesGamble {
                     String cont = scanner.nextLine().trim();
                     if (cont.equalsIgnoreCase("Y")) {
                         totalShotsFired = 0;
-                        userScore = 0;
                         bullet = random.nextInt(5) + 1; // reset bullet
                     } else {
                         strUserSelection = "X";

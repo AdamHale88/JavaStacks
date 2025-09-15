@@ -245,5 +245,3 @@ Round it out with **WebLogic and Oracle ADF** for enterprise-grade deployments
 **Capstone Project:** Full-stack enterprise-style app deployed via Jenkins pipeline onto WebLogic, with some configuration managed by Ansible.
 
 ---
-
-
